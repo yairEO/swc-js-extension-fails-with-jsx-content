@@ -7,7 +7,6 @@
     "email": "vsync.design@gmail.com"
   },
   "private": false,
-  "type": "module",
   "dependencies": {
     "@babel/runtime": "7.17.8",
     "@swc-node/register": "1.5.5",
