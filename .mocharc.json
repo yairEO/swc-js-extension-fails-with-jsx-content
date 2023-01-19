@@ -1,0 +1,7 @@
+{
+  "exit": true,
+  "color": true,
+  "require": ["@swc-node/register", "setup.js"],
+  "ignore": "node_modules"
+}
+
